@@ -1,11 +1,11 @@
 // 只需修改这里，就能更新所有页面的个人信息。
 window.SITE = {
-  name: 'Your Name',
-  chineseName: '你的姓名',
+  name: 'Zhou Jingwen',
+  chineseName: '周静雯',
   title: 'Student · Research Enthusiast · Developer',
-  affiliation: 'Your University / Your Department',
-  email: '',
-  github: '', // 例如 https://github.com/yourname
+  affiliation: 'XJTU / Computer Science',
+  email: '2186805965@qq.com',
+  github: 'https://github.com/zjw-buaa', 
   scholar: '',
   avatar: '', // 例如 assets/avatar.jpg，留空时使用灰色头像占位图
   introduction: [
